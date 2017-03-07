@@ -33,7 +33,7 @@ plt.show()
 
 
 
-![png](figs/figs/output_2_1.png)
+![png](output_2_1.png)
 
 
 ## Convergence for Fermi potential
@@ -68,7 +68,7 @@ plt.show()
 
 
 
-![png](figs/output_4_1.png)
+![png](output_4_1.png)
 
 
 Convergence in case of Fermi potential is better because of "softer edges" - we need more elements in Fourier series to thoroughly express rectangle well.
@@ -122,11 +122,11 @@ plt.show()
 ```
 
 
-![png](figs/output_8_0.png)
+![png](output_8_0.png)
 
 
 
-![png](figs/output_8_1.png)
+![png](output_8_1.png)
 
 
 ## Fermi potential
@@ -161,7 +161,7 @@ plt.show()
 
 
 
-![png](figs/output_10_1.png)
+![png](output_10_1.png)
 
 
 # Examples of wavefunctions
@@ -201,7 +201,7 @@ plt.show()
 ```
 
 
-![png](figs/output_14_0.png)
+![png](output_14_0.png)
 
 
 ## Fermi potential
@@ -235,7 +235,7 @@ plt.show()
 ```
 
 
-![png](figs/output_16_0.png)
+![png](output_16_0.png)
 
 
 
