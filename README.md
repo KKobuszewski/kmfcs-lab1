@@ -33,7 +33,7 @@ plt.show()
 
 
 
-![png](figs/figs/output_2_1.png)
+![png](figs/output_2_1.png)
 
 
 ## Convergence for Fermi potential
