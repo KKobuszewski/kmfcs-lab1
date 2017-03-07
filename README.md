@@ -129,41 +129,6 @@ plt.show()
 ![png](figs/output_8_1.png)
 
 
-## Fermi potential
-
-
-```python
-from __future__ import print_function,division
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-%matplotlib inline
-
-data = np.loadtxt('data_fermi/energies_nlev30_nx1024.dat')
-
-print(data.shape,data.shape[0]/nx)
-
-plt.figure(figsize=[10.,8.])
-plt.title('Energy levels')
-plt.xlabel('n',fontsize=15)
-plt.ylabel(r'$E_n$',fontsize=16)
-
-plt.grid(True)
-
-plt.scatter(data[:,0],data[:,1])
-
-plt.legend(loc='best')
-plt.show()
-```
-
-    (30, 2) 0.029296875
-
-
-
-![png](figs/output_10_1.png)
-
-
 # Examples of wavefunctions
 
 Results of computations for nlevels = 30.
